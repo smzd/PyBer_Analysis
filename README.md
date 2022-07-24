@@ -1,4 +1,5 @@
-																							#Overview of Project
+
+Overview of Project
 																														
 PyBer Project is based on the ride-sharing data from January to April 2019. We took this four months' data and calculated: 
 •	Total Rides, 
@@ -8,7 +9,7 @@ PyBer Project is based on the ride-sharing data from January to April 2019. We t
 •	average Fare Per Driver. 
 We summarized the data between three city types, i.e., Urban, Suburban, and Rural; to recommend that the CEO of PyBer address any disparities and make future recommendations through our analysis.
 
-																								#Analysis
+#Analysis
 
 From the Pyper data summary, we can see the highest number of total rides and fares are from Urban cities, which are 1625 rides and $39,854 fares, respectively. Although it is a very high number compared to other cities, if we pay attention in rural towns, the average fare per ride is $34.2, and the driver is $55.49, which is higher than in the Urban city. 
 
@@ -45,10 +46,12 @@ From this analysis, we can predict:
 •	The urban city has an abundance of rides. Vs. Rural areas, causing the average fare per ride lower in the urban city.
 •	There also might be ride share attributes that cause average fares to be lower in urban cities.
 
-																									#Summary
+#Summary
 
 The analysis looks promising for growth in PyBer. We propose a few recommendations to increase future ridership:
 
 •	Implement more drivers so rides are more accessible and fare gets cheaper in suburban and rural areas.
+
 •	Introduce new discount programs such as first few rides discounts, holiday discounts, and senior discounts to promote Pyber.
+
 •	Introduce ride share in rural and suburban areas so fares are much more acceptable and riders feel comfortable not being costly.
