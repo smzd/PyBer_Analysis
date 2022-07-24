@@ -25,7 +25,7 @@ Fig: Total Fare by City Type
 
 We have the following pie charts to look further in our analysis:
 
-urban cities generate 63%, 30.5% suburban urban, and 6.8% rural.
+urban cities generate 62.7%, 30.5% suburban urban, and 6.8% rural.
 
 ![](https://github.com/smzd/PyBer_Analysis/blob/main/Analysis/Fig5.png)
 
