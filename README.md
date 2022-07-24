@@ -37,15 +37,18 @@ Total rides in urban cities 68.4%, suburban 26.3%, and rural 5.3%
 
 Fig: Total Rides by City Type
 
-total drivers in urban 80.9%, suburban 16.5% ,and rural 2.6%
+Total drivers in urban 80.9%, suburban 16.5% ,and rural 2.6%
 
 ![](https://github.com/smzd/PyBer_Analysis/blob/main/Analysis/Fig7.png)
 
 Fig: Total Drivers by City Type
 
 From this analysis, we can predict:
+
 •	Urban city riders take frequent shorter distance rides, whereas rural areas take longer rides, causing Urban average fares per driver to be lower. 
+
 •	The urban city has an abundance of rides. Vs. Rural areas, causing the average fare per ride lower in the urban city.
+
 •	There also might be ride share attributes that cause average fares to be lower in urban cities.
 
                                                         #Summary
